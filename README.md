@@ -56,15 +56,17 @@ To install the Facial Emotion Recognition project, follow these steps:
    ```bash
       Facial-Emotion-Recognition/
       │
-      ├── dataset/                # Directory containing the dataset
+      ├── dataset/                                   # Directory containing the dataset
       │
-      ├── models/                 # Pre-trained model files
+      ├── save/                                      # Pre-trained model files
       │
-      ├── emotion_recognition.py   # Main script for emotion detection
+      ├── emotion_detection_backend/                 # backend in django
       │
-      ├── requirements.txt         # List of dependencies
+      ├── app.py                                     # Main script for emotion detection
       │
-      └── README.md                # Project documentation
+      ├── requirements.txt                           # List of dependencies
+      │
+      └── README.md                                  # Project documentation
    ```
 ##Contributing
    **Contributions are welcome! If you have suggestions or improvements, please create a pull request.**
