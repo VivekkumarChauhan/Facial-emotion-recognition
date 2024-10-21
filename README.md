@@ -44,3 +44,41 @@ To install the Facial Emotion Recognition project, follow these steps:
     pip install -r requirements.txt
 4. **Download the Pre-trained Model: If your project includes a pre-trained model, ensure to download and place it in the specified directory.**
 
+## Usage
+
+1. **Run the Emotion Recognition Script**: After installation, you can run the script to start emotion recognition.
+   ```bash
+   python emotion_recognition.py
+2. **Follow the On-Screen Instructions**: The program will prompt you to allow access to your webcam for real-time emotion detection.
+
+##Project Structure
+
+   ```bash
+      Facial-Emotion-Recognition/
+      │
+      ├── dataset/                # Directory containing the dataset
+      │
+      ├── models/                 # Pre-trained model files
+      │
+      ├── emotion_recognition.py   # Main script for emotion detection
+      │
+      ├── requirements.txt         # List of dependencies
+      │
+      └── README.md                # Project documentation
+   ```
+##Contributing
+   **Contributions are welcome! If you have suggestions or improvements, please create a pull request.**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### MIT License
+
+##Copyright (c) [2024] [VivekChauhan3]
+**Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:**
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+2. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+   
