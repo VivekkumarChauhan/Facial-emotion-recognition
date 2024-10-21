@@ -51,7 +51,7 @@ To install the Facial Emotion Recognition project, follow these steps:
    python emotion_recognition.py
 2. **Follow the On-Screen Instructions**: The program will prompt you to allow access to your webcam for real-time emotion detection.
 
-##Project Structure
+##  Project Structure
 
    ```bash
       Facial-Emotion-Recognition/
@@ -68,7 +68,7 @@ To install the Facial Emotion Recognition project, follow these steps:
       │
       └── README.md                                  # Project documentation
    ```
-##Contributing
+## Contributing
    **Contributions are welcome! If you have suggestions or improvements, please create a pull request.**
 
 ## License
