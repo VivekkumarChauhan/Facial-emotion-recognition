@@ -1,0 +1,13 @@
+# Required Libraries for Facial Emotion Recognition Project
+
+# Deep Learning Libraries
+tensorflow==2.11.0            # Core library for building neural networks
+numpy==1.24.3                  # For numerical operations and array manipulations
+Pillow==9.4.0                  # Python Imaging Library for image processing
+keras==2.11.0                  # High-level neural networks API (comes with TensorFlow)
+
+# Django and REST Framework Libraries
+djangorestframework==3.14.0    # Framework for building RESTful APIs
+
+# Additional Libraries
+logging==0.6.2                 # For logging (note: logging is built-in)
