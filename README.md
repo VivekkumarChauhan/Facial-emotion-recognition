@@ -48,7 +48,7 @@ To install the Facial Emotion Recognition project, follow these steps:
 
 1. **Run the Emotion Recognition Script**: After installation, you can run the script to start emotion recognition.
    ```bash
-   python emotion_recognition.py
+   python app.py
 2. **Follow the On-Screen Instructions**: The program will prompt you to allow access to your webcam for real-time emotion detection.
 
 ##  Project Structure
