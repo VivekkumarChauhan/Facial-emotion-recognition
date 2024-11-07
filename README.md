@@ -32,8 +32,8 @@ To install the Facial Emotion Recognition project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/Facial-Emotion-Recognition.git
-   cd Facial-Emotion-Recognition
+   git clone https://github.com/VivekkumarChauhan/Facial-emotion-recognition.git
+   cd Facial-emotion-recognition
    
 2. **Create a Virtual Environment (Optional): It's a good practice to create a virtual environment to manage dependencies.**
     ```bash
