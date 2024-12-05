@@ -13,7 +13,7 @@ This project implements a Facial Emotion Recognition system using deep learning 
 
 ## Features
 
-- **Emotion Detection**: Accurately classify emotions from facial images.
+- **Emotion Detection**: Accurately classify emotions from facial images bshshsh.
 - **User-Friendly Interface**: Easy-to-use command-line interface for predictions.
 - **Real-Time Recognition**: Detect emotions in real-time using a webcam.
 
