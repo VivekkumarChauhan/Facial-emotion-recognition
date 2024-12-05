@@ -1,4 +1,4 @@
-# Facial Emotion Recognition Project
+# Racial Emotion Recognition Project
 
 ## Overview
 This project implements a Facial Emotion Recognition system using deep learning techniques to analyze and classify emotions from facial expressions. The model is trained on a curated dataset and can detect emotions such as happiness, sadness, surprise, anger, and more, enhancing human-computer interaction .
@@ -13,7 +13,7 @@ This project implements a Facial Emotion Recognition system using deep learning 
 
 ## Features
 
-- **Emotion Detection**: Accurately classify emotions from facial images bshshsh.
+- **Emotion Detection**: Accurately classify emotions from facial images .
 - **User-Friendly Interface**: Easy-to-use command-line interface for predictions.
 - **Real-Time Recognition**: Detect emotions in real-time using a webcam.
 
